@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+}
+form{
+	margin-top: 10em;
+	width: 100%;
+}
+form h1{
+	text-align: center;
+}
